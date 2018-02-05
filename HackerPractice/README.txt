@@ -1,4 +1,4 @@
-Directly run Debug/hacker practise.exe
+compile main
 
 IDE: Visual Studio
 Operation System: Windows
