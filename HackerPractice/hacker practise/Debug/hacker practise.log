@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\documents\nutstore\cornell\scientific computing\program assignments\hacker practise\hacker practise\helper_practice3.hpp(42): warning C4293: '>>': shift count negative or too big, undefined behavior
+c:\users\user\documents\nutstore\cornell\scientific computing\program assignments\hacker practise\hacker practise\helper_practice3.hpp(62): warning C4293: '>>': shift count negative or too big, undefined behavior
+  hacker practise.vcxproj -> C:\Users\User\Documents\Nutstore\Cornell\scientific computing\program assignments\hacker practise\Debug\hacker practise.exe
